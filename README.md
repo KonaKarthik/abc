@@ -48,10 +48,11 @@
 ## 📜 Certifications  
 
 ### 📄 Cybersecurity Certificate  
-<img src="https://img.icons8.com/fluency/48/000000/cyber-security-shield.png" width="50" alt="Cybersecurity Icon" />  
-<a href="https://drive.google.com/file/d/1SFkRWDX0O3i7aDgkGdBY2iWYB83lPLTY/view" target="_blank">  
-  <img src="https://img.shields.io/badge/View%20Certificate-blueviolet?style=for-the-badge" alt="View Certificate" />  
+<img src="https://cdn-icons-png.flaticon.com/512/2910/2910763.png" width="50" />  
+<a href="https://drive.google.com/file/d/1SFkRWDX0O3i7aDgkGdBY2iWYB83lPLTY/view" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Certificate-blueviolet?style=for-the-badge" />
 </a>
+
 
 ---
 
