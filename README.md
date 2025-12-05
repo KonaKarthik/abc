@@ -47,33 +47,33 @@
 
 ## 📜 Certifications  
 
-### 📄 Cloud Computing Certificate  
-<img src="https://cdn-icons-png.flaticon.com/512/2040/2040946.png" width="50" />  
+### 📄 Cybersecurity Certificate  
+<img src="https://cdn-icons-png.flaticon.com/512/3105/3105780.png" width="50" />  
 <a href="https://drive.google.com/file/d/1SFkRWDX0O3i7aDgkGdBY2iWYB83lPLTY/view" target="_blank">
   <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge" />
 </a>
 
 ---
 
-### 📄 DevOps Tools Certificate  
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="50" />  
+### 📄 Java Certificate  
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" />  
 <a href="https://drive.google.com/file/d/1-ps9OCkSdYNrnyV1nmODTRnnPNMsKbX8/view" target="_blank">
   <img src="https://img.shields.io/badge/View%20Certificate-green?style=for-the-badge" />
 </a>
 
 ---
 
-### 📄 AWS Cloud Foundations Certificate  
-<img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" width="50" />  
-<a href="https://drive.google.com/file/d/1vhkIbhvqxuIHVRhuUPA2o45uPLex9Y_I/view" target="_blank">
+### 📄 Web Technology Certificate  
+<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="50" />  
+<a href="https://drive.google.com/file/d/1lhBWRTl5zTGMFIL09jP9zLW7nL8C9yef/view" target="_blank">
   <img src="https://img.shields.io/badge/View%20Certificate-orange?style=for-the-badge" />
 </a>
 
 ---
 
-### 📄 Linux & Shell Scripting Certificate  
-<img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" width="50" />  
-<a href="https://drive.google.com/file/d/1lhBWRTl5zTGMFIL09jP9zLW7nL8C9yef/view" target="_blank">
+### 📄 AWS Foundations Certificate  
+<img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" width="50" />  
+<a href="https://drive.google.com/file/d/1vhkIbhvqxuIHVRhuUPA2o45uPLex9Y_I/view" target="_blank">
   <img src="https://img.shields.io/badge/View%20Certificate-red?style=for-the-badge" />
 </a>
 
