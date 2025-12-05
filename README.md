@@ -48,9 +48,9 @@
 ## 📜 Certifications  
 
 ### 📄 Cybersecurity Certificate  
-<img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="50" />  
+<img src="https://cdn-icons-png.flaticon.com/512/2040/2040946.png" width="50" />  
 <a href="https://drive.google.com/file/d/1SFkRWDX0O3i7aDgkGdBY2iWYB83lPLTY/view" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Certificate-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/View%20Certificate-blue?style=for-the-badge" />
 </a>
 
 ---
