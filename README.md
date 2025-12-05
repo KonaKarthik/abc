@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Colorful Badges)
+## 🛠️ Tech Stack (Colorful Gradient Badges)
 
 ### 🔹 **Cloud Platforms**
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
@@ -48,7 +48,7 @@
 ## 📜 Certifications  
 
 ### 📄 Cybersecurity Certificate  
-<img src="https://cdn-icons-png.flaticon.com/512/3022/3022092.png" width="50" />  
+<img src="https://cdn-icons-png.flaticon.com/512/3096/3096673.png" width="50" />  
 <a href="https://drive.google.com/file/d/1SFkRWDX0O3i7aDgkGdBY2iWYB83lPLTY/view" target="_blank">
   <img src="https://img.shields.io/badge/View%20Certificate-blueviolet?style=for-the-badge" />
 </a>
@@ -72,7 +72,7 @@
 ---
 
 ### 📄 AWS Foundations Certificate  
-<img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50" />  
+<img src="https://cdn-icons-png.flaticon.com/512/906/906318.png" width="50" />  
 <a href="https://drive.google.com/file/d/1vhkIbhvqxuIHVRhuUPA2o45uPLex9Y_I/view" target="_blank">
   <img src="https://img.shields.io/badge/View%20Certificate-red?style=for-the-badge" />
 </a>
